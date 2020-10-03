@@ -9,7 +9,7 @@ acidBucket: "Savas vödör"
 acidLore: |
     Ne
     igyál!
-    Óvakodj!
+    Vigyázz!
 
 adminDeleteIsland: 
   error: "Használja a &ldeleteisland megerősítését&r&c és törli a szigeten tartózkodó személyt."
@@ -245,7 +245,7 @@ error:
   unknownPlayer: "Ez a játékos ismeretlen!"
   useInGame: "Ezt a parancsot a játékban kell használni."
   wrongWorld: "Nem megfelelő világban vagy!"
-  minishopDisabled: "A MiniShop le van tiltva."
+  minishopDisabled: "A MiniBolt le van tiltva."
 expel: 
   expelled: "Kiutasítottak a szigetről!"
   fail: "[name] nem lehet kizárni!"
@@ -434,14 +434,14 @@ makeleader:
 minishop: 
   buy: "Vásárlás (Bal egérgomb)"
   buyproblem: "Probléma volt a vásárlással [description]"
-  islandhelpMiniShop: "Megnyissa a MiniShop-ot."
+  islandhelpMiniShop: "Megnyisd meg a MiniBoltot."
   outofstock: "Nincs raktáron"
   sell: "Eladás (Jobb egérgomb)"
   sellproblem: "Nincs elég megfelelő tárgyad a kezedben [description]!"
-  title: "&eMiniShop"
-  youbought: "Vásároltál [number] db [description]&f-t és elköltöttél: &a[price]&f pénzt!"
+  title: "&eMinibolt"
+  youbought: "Vásároltál [number]db [description]&f-t és elköltöttél: &a[price]&f pénzt!"
   youcannotafford: "Nincs elegendő pénzed erre: [description]!"
-  yousold: "Vásároltál [number] db [description]&f-t és elköltöttél: &a[price]&f pénzt!"
+  yousold: "Vásároltál [number]db [description]&f-t és elköltöttél: &a[price]&f pénzt!"
 moblimits: 
   entity: "Sziget [entity] határértéke [number] elérte!"
   error: "A sziget állati tenyésztési határa [number] elérte!"
@@ -450,7 +450,7 @@ moblimits:
 nether: 
   spawnisprotected: "A Nether spawn terület védett."
 news: 
-  headline: "[AcidIsland hírek] Mikor offline voltál..."
+  headline: "[AcidIsland hírek] Amikor nem voltál elérhető..."
 purge: 
   acidFound: "Vannak [number] nem ismert szigetek. Használd '/acid purge unowned confirm', hogy 20 másodpercen belül törölje őket."
   allowPurge: "A tisztítás védelem eltávolítva"
@@ -504,7 +504,7 @@ sign-acidisland:
    line1: "&1[AcidIsland]"
    line2: "[player]"
    line3: "A víz savas!"
-   line4: "Óvakodj!"
+   line4: "Vigyázz!"
 targetInPVPArea: "Ez nem egy PvP aréna!"
 team: 
   listingMembers: "Csapatok"
